@@ -96,5 +96,5 @@ Research papers on optimization techniques
 
 Author
 
-Your Name Pavan R
-Your Register Number 23BTRCL155
+Name: Pavan R
+Register number: 23BTRCL155
